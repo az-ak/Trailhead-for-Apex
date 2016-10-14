@@ -8,6 +8,8 @@
         <members>AddPrimaryContactTest</members>
         <members>ContactAndLeadSearch</members>
         <members>ContactSearch</members>
+        <members>DailyLeadProcessor</members>
+        <members>DailyLeadProcessorTest</members>
         <members>LeadProcessor</members>
         <members>LeadProcessorTest</members>
         <members>RandomContactFactory</members>
