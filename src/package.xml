@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AccountHandler</members>
+        <members>AccountProcessor</members>
+        <members>AccountProcessorTest</members>
+        <members>AddPrimaryContact</members>
+        <members>AddPrimaryContactTest</members>
+        <members>ContactAndLeadSearch</members>
+        <members>ContactSearch</members>
+        <members>LeadProcessor</members>
+        <members>LeadProcessorTest</members>
+        <members>RandomContactFactory</members>
+        <members>StringArrayTest</members>
+        <members>TestRestrictContactByName</members>
+        <members>TestVerifyDate</members>
+        <members>VerifyDate</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AccountAddressTrigger</members>
+        <members>ClosedOpportunityTrigger</members>
+        <members>RestrictContactByName</members>
+        <name>ApexTrigger</name>
+    </types>
+    <version>36.0</version>
+</Package>
